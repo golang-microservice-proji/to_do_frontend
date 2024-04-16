@@ -39,7 +39,7 @@ export default function CardHoverEffectDemo() {
     <div className="">
       <BackgroundGradientAnimation>
         <div className="text-5xl lg:text-9xl mt-2 text-center p-3">
-          just do it,
+          just do it
         </div>
         <div className="text-4xl text-center p-3">
           what are you waiting for?
